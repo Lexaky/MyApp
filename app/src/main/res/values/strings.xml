@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="greet">Приветствую! Я Алексей Стрельцов</string>
+    <string name="role">Моя роль - студент ИИБД</string>
+    <string name="telegram">tg - @KwinTinn</string>
+    <string name="details">Подробнее</string>
+    <string name="skills">Мой билд навыков (20/20) - внутренняя империя (4), полицейская волна (6), восприятие (5), техника (5)</string>
+    <string name="hobbies">Мне нравится - программирование, игры и ЕДА</string>
+    <string name="back_button">Назад</string>
+</resources>
